@@ -33,7 +33,7 @@ AppMutex=Local\TelegramManager-29012AE9-65A2-46DC-A2E5-8746B874AF92
 CloseApplications=yes
 CloseApplicationsFilter=TelegramManager.exe
 RestartApplications=no
-Uninstallable=not IsTestInstall
+Uninstallable=yes
 CreateUninstallRegKey=not IsTestInstall
 SetupLogging=yes
 
